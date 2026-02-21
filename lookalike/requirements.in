@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+orjson
+numpy
+pandas
+pyarrow
+scikit-learn
+xgboost
+tqdm
+mlflow
+dvc[s3]
+boto3
+minio
+great-expectations
+evidently
