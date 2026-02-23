@@ -1,0 +1,9 @@
+data
+__pycache__
+work
+lookalike
+catboost_info
+artifacts
+.vscode
+.venv
+main.ipynb
